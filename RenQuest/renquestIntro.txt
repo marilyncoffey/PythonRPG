@@ -1,0 +1,48 @@
+------------------------------------------------------------------------
+			INTRODUCTION
+------------------------------------------------------------------------
+It is July 27th, a sweltering 90 Degrees and you hear the distant sounds 
+of bagpipes, horses, and what’s that? The clamor of armor and a crowd 
+cheering? Why, it must be Renfaire weekend! Grabbing your foam sword and 
+renaissance regalia, you excitedly head to the Massachusetts Renaissance 
+Faire.
+
+Once you determine your place in this 16th century world, a child, adult, 
+LARPer, or Anime fan- you set off to the faire and hear of a new 
+prestigious quest- Fight the Knight! Being the huge geek that you are, 
+you know you must win this award or die trying! 
+
+The greeter at the gate has handed you a map of the faire and vendors. 
+The goal is to get all the best gear in time to fight the knight and win! 
+You can use your money (which is limited), charisma (to talk the price 
+down), or dexterity (to steal the items and hope you don’t get caught.)
+
+Watch out for random events (like uber nerds and raccoons), and don’t 
+let your hydration level drop too low or you will pass out and have to 
+be taken to the hospital by the first aid tent. Marf the Dragon will 
+also help guide you on your way if you are not sure what to do next! 
+
+May the games begin!
+
+------------------------------------------------------------------------
+			CHOOSE YOUR CHARACTER
+------------------------------------------------------------------------
++----------------------------------------------------------------------+
+¦   ¦ Character   Attack   Dexterity   Charisma   Health Points   Cash ¦
+¦---+------------------------------------------------------------------¦
+¦ 1 ¦ Adult       5        1           2          18              $100 ¦
+¦   ¦ Tavern barfly- love of mutton only rivaled by need for mead.     ¦
+¦   ¦ Special attack - Drunken Rage                                    ¦
+¦ 2 ¦ Child       1        8           8          10              $30  ¦
+¦   ¦ They dream of one day being as cool as the jousting knights.     ¦
+¦   ¦ Special attack - Tears of Entitlement			       ¦
+¦ 3 ¦ LARPer      5        1           5          20              $50  ¦
+¦   ¦ Mouth breathing medieval enthusiast, goes nowhere without his    ¦
+¦   ¦ chainmail suit. Not even the grocery store.		       ¦
+¦   ¦ Special attack - Double Attack				       ¦
+¦ 4 ¦ Anime       8        3           1          15              $70  ¦
+¦   ¦ Thinks that any excuse to dress in their costume is worthwhile,  ¦
+¦   ¦ I mean, they spent a LOT of time creating it!		       ¦
+¦   ¦ Special attack - Subs vs Dubs Lecture	 		       ¦
++----------------------------------------------------------------------+
+
